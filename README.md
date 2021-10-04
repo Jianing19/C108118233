@@ -18,7 +18,7 @@
  
  ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
  
- ![fig](nkust2.jpeg "海底風光")
+ ![fig](小新.jpg.crdownload)
  
 - [ ] todo list
 - [x] done 1
